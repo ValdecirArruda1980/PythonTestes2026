@@ -1,43 +1,111 @@
-# Repositório Python
+# 🐍 Repositório Python - Estudos com Pandas
 
-## Comandos Git
+Este repositório reúne exercícios e exemplos desenvolvidos durante meus estudos em **Python**, com foco na biblioteca **Pandas** para manipulação e análise de dados.
 
-Comandos úteis para usar com o GitHub Codespaces/GitPod.
+O objetivo é praticar conceitos fundamentais da linguagem, estruturas de dados e tratamento de informações utilizando uma das bibliotecas mais utilizadas em Ciência de Dados.
 
-Para utilizar localmente (com um editor de código no próprio computador), podem ser necessários outros comandos.
+---
 
-Caso precisar, segue uma lista com mais exemplos [aqui](https://github.com/RafaelWillians/GitHubExample/tree/main/git-crash-course).
+## 🚀 Tecnologias Utilizadas
 
-#### Consultar status do repositório
-Mostram os arquivos que foram ou não adicionados para Staging (uma fila de arquivos que estão prontos para serem gravados no histórico do repositório).
-```sh
-git status
+- Python 3
+- Pandas
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+.
+├── aula_pandas.py
+├── Python/
+├── README.md
+└── LICENSE
 ```
 
-#### Criar uma branch e alternar para ela
-```sh
-git checkout -b <nome da branch>
+---
+
+## 📚 Conteúdo
+
+Neste repositório são abordados conceitos como:
+
+- Leitura de dados
+- Manipulação de DataFrames
+- Seleção de colunas
+- Filtros
+- Tratamento de dados
+- Operações com tabelas
+- Introdução à análise de dados
+
+---
+
+## ▶️ Como executar
+
+Clone o projeto:
+
+```bash
+git clone https://github.com/ValdecirArruda1980/PythonTestes2026.git
 ```
 
-#### Adicionar arquivo para Staging
-```sh
-git add <nome do arquivo>
+Entre na pasta:
+
+```bash
+cd PythonTestes2026
 ```
 
-#### Adicionar todos os arquivos para Staging
-```sh
-git add .
+Instale o Pandas:
+
+```bash
+pip install pandas
 ```
 
-#### Dar commit
-Gravar os arquivos e alterações para o histórico do repositório no dispositivo.
-Detalhe que com esse comando essas alterações ainda não estão salvas no site do GitHub.
-```sh
-git commit -m "Texto da mensagem"
+Execute:
+
+```bash
+python aula_pandas.py
 ```
 
-#### Subir as alterações para o repositório
-Salvar no GitHub todos os commits que fez no ambiente.
-```sh
-git push
-```
+---
+
+## 🎯 Objetivo
+
+Este projeto faz parte da minha formação em Engenharia de Software e do meu processo de aprendizado em Python, explorando manipulação de dados e preparando a base para projetos de Ciência de Dados e Análise de Dados.
+
+---
+
+## 📖 Aprendizados
+
+Durante o desenvolvimento deste projeto pratiquei:
+
+- Sintaxe do Python
+- Manipulação de dados
+- Estruturas de repetição
+- Funções
+- Biblioteca Pandas
+- Organização de projetos utilizando Git e GitHub
+
+---
+
+## 🔮 Melhorias Futuras
+
+- Importação de arquivos CSV
+- Gráficos com Matplotlib
+- Tratamento de dados faltantes
+- Exportação para Excel
+- Dashboard em Python
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+**Valdecir Rogério de Arruda**
+
+🎓 Estudante de Engenharia de Software
+
+📍 Piracicaba/SP
+
+- GitHub: https://github.com/ValdecirArruda1980
+- LinkedIn: https://linkedin.com/in/valdecir-arruda
