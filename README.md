@@ -1,25 +1,39 @@
-# 🐍 Repositório Python - Estudos com Pandas
+# 🐍 Python - Estudos com Pandas
 
-Este repositório reúne exercícios e exemplos desenvolvidos durante meus estudos em **Python**, com foco na biblioteca **Pandas** para manipulação e análise de dados.
+## 📌 Sobre o projeto
 
-O objetivo é praticar conceitos fundamentais da linguagem, estruturas de dados e tratamento de informações utilizando uma das bibliotecas mais utilizadas em Ciência de Dados.
+Este repositório reúne exercícios e exemplos desenvolvidos durante meus estudos em **Python**, com foco na biblioteca **Pandas** para manipulação, tratamento e análise de dados.
+
+O objetivo deste projeto é praticar conceitos fundamentais da linguagem Python, estruturas de dados e operações com tabelas utilizando uma das principais bibliotecas utilizadas em **Ciência de Dados e Análise de Dados**.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias e Ferramentas
 
-- Python 3
-- Pandas
-- Visual Studio Code
-- Git
-- GitHub
+### Linguagem
+
+* **Python 3**
+
+### Biblioteca
+
+* **Pandas**
+
+### Desenvolvimento
+
+* **Visual Studio Code**
+
+### Versionamento
+
+* **Git**
+* **GitHub**
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-```
-.
+```text
+PythonTestes2026/
+│
 ├── aula_pandas.py
 ├── Python/
 ├── README.md
@@ -28,41 +42,41 @@ O objetivo é praticar conceitos fundamentais da linguagem, estruturas de dados 
 
 ---
 
-## 📚 Conteúdo
+## 📚 Conteúdos praticados
 
-Neste repositório são abordados conceitos como:
+Durante o desenvolvimento foram explorados conceitos como:
 
-- Leitura de dados
-- Manipulação de DataFrames
-- Seleção de colunas
-- Filtros
-- Tratamento de dados
-- Operações com tabelas
-- Introdução à análise de dados
+* Leitura e manipulação de dados
+* Criação e utilização de DataFrames
+* Seleção de colunas
+* Filtros e consultas
+* Tratamento de informações
+* Operações com tabelas
+* Introdução à análise de dados
 
 ---
 
-## ▶️ Como executar
+## ▶️ Como executar o projeto
 
-Clone o projeto:
+### 1. Clone o repositório
 
 ```bash
 git clone https://github.com/ValdecirArruda1980/PythonTestes2026.git
 ```
 
-Entre na pasta:
+### 2. Acesse a pasta
 
 ```bash
 cd PythonTestes2026
 ```
 
-Instale o Pandas:
+### 3. Instale a biblioteca Pandas
 
 ```bash
 pip install pandas
 ```
 
-Execute:
+### 4. Execute o projeto
 
 ```bash
 python aula_pandas.py
@@ -70,32 +84,39 @@ python aula_pandas.py
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo do aprendizado
 
-Este projeto faz parte da minha formação em Engenharia de Software e do meu processo de aprendizado em Python, explorando manipulação de dados e preparando a base para projetos de Ciência de Dados e Análise de Dados.
+Este projeto faz parte da minha formação em **Engenharia de Software** e do meu processo de evolução em Python.
+
+Através deste repositório, desenvolvo conhecimentos que servem como base para projetos envolvendo:
+
+* Ciência de Dados
+* Análise de Dados
+* Automação
+* Desenvolvimento de aplicações inteligentes
 
 ---
 
 ## 📖 Aprendizados
 
-Durante o desenvolvimento deste projeto pratiquei:
+Durante o desenvolvimento pratiquei:
 
-- Sintaxe do Python
-- Manipulação de dados
-- Estruturas de repetição
-- Funções
-- Biblioteca Pandas
-- Organização de projetos utilizando Git e GitHub
+* Sintaxe Python
+* Variáveis e estruturas de dados
+* Funções
+* Estruturas de repetição
+* Manipulação de dados com Pandas
+* Organização de projetos utilizando Git e GitHub
 
 ---
 
-## 🔮 Melhorias Futuras
+## 🔮 Melhorias futuras
 
-- Importação de arquivos CSV
-- Gráficos com Matplotlib
-- Tratamento de dados faltantes
-- Exportação para Excel
-- Dashboard em Python
+* [ ] Importação de arquivos CSV
+* [ ] Criação de gráficos utilizando Matplotlib
+* [ ] Tratamento de dados ausentes
+* [ ] Exportação de relatórios Excel
+* [ ] Criação de dashboards em Python
 
 ---
 
@@ -104,8 +125,10 @@ Durante o desenvolvimento deste projeto pratiquei:
 **Valdecir Rogério de Arruda**
 
 🎓 Estudante de Engenharia de Software
+💻 Python | Cloud Computing | Cybersecurity | Desenvolvimento Web
 
 📍 Piracicaba/SP
 
-- GitHub: https://github.com/ValdecirArruda1980
-- LinkedIn: https://linkedin.com/in/valdecir-arruda
+🔗 GitHub: https://github.com/ValdecirArruda1980
+🔗 LinkedIn: https://linkedin.com/in/valdecir-arruda
+
